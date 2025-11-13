@@ -22,8 +22,8 @@ var game_started = false; // Igra počinje tek nakon SPACE
 var game_over = false;
 // Zvukovi
 var sound_brick = new Audio("sounds/brick.wav");
-var sound_paddle = new Audio("sounds/wall_paddle.wav");
-var sound_wall = new Audio("sounds/wall_paddle.wav");
+var sound_paddle = new Audio("sounds/wall_padle.wav");
+var sound_wall = new Audio("sounds/wall_padle.wav");
 var sound_start = new Audio("sounds/start.wav");
 var sound_gameover = new Audio("sounds/game-over.wav");
 var sound_milestone = new Audio("sounds/milestone.wav");
